@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Candy Crush",
+  "id": "04b70cf3-e79b-4d9c-9809-ea8775e7003b",
+  "version": "2.4.8",
+  "isNew": false
+}
